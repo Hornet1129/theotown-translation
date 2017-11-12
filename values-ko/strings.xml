@@ -354,14 +354,14 @@
     <string name="notify_noenergy">전력이 공급되지 않는 건물이 있습니다!</string>
     <string name="notify_nowater">수도가 공급되지 않는 건물이 있습니다!</string>
     <string name="draft_footballstadion00_roof_title">지붕</string>
-    <string name="draft_footballstadion00_roof_text">지붕으로서, 날씨에 관계없이 경기가 이루어질 수 있습니다.</string>
+    <string name="draft_footballstadion00_roof_text"> 지붕 덕분에, 날씨에 관계없이 경기가 이루어질 수 있습니다.</string>
     <string name="draft_footballstadion00_fanshop_title">기념품 가게</string>
     <string name="draft_footballstadion00_fanshop_text">기념품은 여기서 팔립니다.</string>
     <string name="notify_requirementbuilding">다음을 해제하였습니다!: %1$s.</string>
     <string name="notify_requirementupgrade">축하드려요. 당신은 %2$s (을)를 위한 %1$s 개의 업그레이드를 해제했습니다!</string>
     <string name="draftselector_titlesports">스포츠</string>
     <string name="draftselector_titlealert">비상상황</string>
-    <string name="notify_fire">으어어어어 불이야! 화재진화를 위해 소방대를 보내세요! 또한 더많은 소방서를 건설하는 것도 고려하십시오.</string>
+    <string name="notify_fire">불이야! 화재진화를 위해 소방차를 보내세요! 또한 더 많은 소방서를 건설하는 것을 고려하십시오.</string>
     <string name="notify_pollution">오염이 너무 심합니다!</string>
     <string name="draft_radio00_title">라디오 방송국</string>
     <string name="draft_radio00_text">시민들은 라디오 프로그램을 좋아할 것입니다.</string>
@@ -369,7 +369,7 @@
     <string name="draft_alert_police00_title">경찰차 부르기</string>
     <string name="draft_alert_police00_text">경찰을 불러 범죄를 진압하십시오.</string>
     <string name="draft_alert_fire00_title">소방차 부르기</string>
-    <string name="draft_alert_fire00_text">뭔가 불탄다면 소방대를 불르십시오.</string>
+    <string name="draft_alert_fire00_text">뭔가 불타고 있다면 소방대를 르십시오.</string>
     <string name="draft_alert_medic00_title">구급차 부르기</string>
     <string name="draft_alert_medic00_text">사고가 나면 구급차를 불러야만 합니다.</string>
     <string name="buildinginfo_powerusage">사용량: %1$.01f%%</string>
@@ -994,16 +994,15 @@
     <string name="draft_decosmallmountain00_title">작은 산</string>
     <string name="draft_feature_mountain00_title">작은 산</string>
     <string name="draft_zonemilitary_text">군사 시설은 이 구역내에 건설될 것입니다.</string>
-    <string name="draft_mltry_road00_text">응급파량과 군 차량만을 위한 도로입니다. 당신은 아마 다른 종류의 도로를 건설할 수 없을 것입니다.</string>
-    <string name="draft_mltry_hq00_text">본부는 군부대의 건물중 중 가장 중요한 시설입니다.</string>
+    <string name="draft_mltry_road00_text">응급차량과 군 차량만을 위한 도로입니다. 당신은 아마 다른 종류의 도로를 건설할 수 없을 것입니다.</string>
+    <string name="draft_mltry_hq00_text">본부는 군부대의 건물중 가장 중요한 시설입니다.</string>
     <string name="draft_mltry_baracks00_text">군인들이 거주합니다.</string>
     <string name="draft_mltry_depot00_text">군수물자를 위한 병참부입니다.</string>
     <string name="draft_mltry_tankbase00_text">군용 중장비를 위한 병참부입니다.</string>
-
     <string name="draft_mltry_rocketlauncher00_text">UFO격추를 위해 사용가능 합니다. 민간 차량이나 건물을 향해서는 발사되지 않을것 입니다.</string>
-    <string name="draft_mltry_missilesilo00_text">정부는 당신의 도시에서 로켓실험을 하는것을 원할겁니다. 이것으로 재해가 닥친다면, 피해에 대한 보상을 받을 것입니다.</string>
-    <string name="draft_decosmallmountain00_text">이 작은 산은 관광객들에게 이 거이 평평한 땅의 관광지가 될 것입니다.</string>
-    <string name="draft_feature_mountain00_text">이 작은 산은 관광객들에게 이 거이 평평한 땅의 관광지가 될 것입니다.</string>
+    <string name="draft_mltry_missilesilo00_text">정부는 당신의 도시에서 로켓실험을 하는 것을 원할겁니다. 이것으로 재해가 닥친다면, 피해에 대한 보상을 받을 것입니다.</string>
+    <string name="draft_decosmallmountain00_text">이 작은 산은 거의 평평한 이 지역에서는 관광지입니다..</string>
+    <string name="draft_feature_mountain00_text">이 작은 산은 거의 평평한 이 지역에서는 관광지입니다..</string>
     <string name="dialog_connect_title">이웃 도시와의 연결</string>
     <string name="dialog_connect_text">당신은 외부와의 연결을 설정하고 싶으신가요?</string>
     <string name="menu_hideui">UI 숨기기</string>
@@ -1040,7 +1039,7 @@
     <string name="draft_feature_slowspeed00_text">느린 속도 모드는 다양한 상황에서 당신이 더 상황을 통제하기 쉽도록 할 것입니다.</string>
     <string name="buildinginfo_patrol">순찰소</string>
     <string name="draft_beach_gnd00_title">모래</string>
-    <string name="draft_beach_gnd00_text">더 이상 형용할 필요가 없는 모래입니다. 가에서 사용됩니다.</string>
+    <string name="draft_beach_gnd00_text">모래입니다. 해변에서도 사용됩니다.</string>
     <string name="draft_searocks00_title">암초</string>
     <string name="draft_searocks00_text">물에 있는 바위입니다.</string>
     <string name="createcity_decos">장식 포함</string>
